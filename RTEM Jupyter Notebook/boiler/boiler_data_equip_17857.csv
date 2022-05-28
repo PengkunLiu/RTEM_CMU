@@ -1,0 +1,5 @@
+id_point,building_id,last_updated,first_updated,device,objectId,name_point,description,units,tagged_units,raw_unit_id,value,type,point_type_id,measurement_id,datasource_hash,topic,equip_id,id_bdg,name_bdg,equip_type_abbr,equip_type_name,area_served_desc,tags
+197214,126,1533181500000.0,1517461200000.0,,,,1212 MLK Tekmar Blr1Mod,,,23,0.0,Virtual,434,18,147547be2d9c13da43332960681ea4a4,nyserda+0000088777+boiler1+1212 MLK Tekmar Blr1Mod,17857,126,88777,BLR,Boiler,,"['boiler', 'hvac']"
+197217,126,1533181500000.0,1517461200000.0,,,,Blr1Sts.1,On/Off,,20,0.0,Status,121,11,fa02efb9fd570daaa21304cd52d4aaf3,nyserda+0000088777+boiler1+Blr1Sts.1,17857,126,88777,BLR,Boiler,,"['boiler', 'hvac']"
+197216,126,1533181500000.0,1517461200000.0,,,,Blr1Sts,On/Off,,20,0.0,Status,121,11,dd1224469939721eccbd84a570dd46cc,nyserda+0000088777+boiler1+Blr1Sts,17857,126,88777,BLR,Boiler,,"['boiler', 'hvac']"
+197215,126,1533125700000.0,1517461200000.0,,,,Blr1Cyc,,,23,5318.0,Virtual,434,18,ff96bb6b671da716259d5254019647c9,nyserda+0000088777+boiler1+Blr1Cyc,17857,126,88777,BLR,Boiler,,"['boiler', 'hvac']"

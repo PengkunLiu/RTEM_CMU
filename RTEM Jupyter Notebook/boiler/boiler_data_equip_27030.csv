@@ -1,0 +1,2 @@
+id_point,building_id,last_updated,first_updated,device,objectId,name_point,description,units,tagged_units,raw_unit_id,value,type,point_type_id,measurement_id,datasource_hash,topic,equip_id,id_bdg,name_bdg,equip_type_abbr,equip_type_name,area_served_desc,tags
+284197,110,1609476300000.0,1593576000000.0,,,Burner Status.2,,?,?,23,AAAB,Virtual,434,18,bfa33320d85e1fd13e7f3984cf8cbf55,nyserda+0000089088+boiler-2+Burner Status.2,27030,110,89088,BLR,Boiler,,"['boiler', 'hvac']"

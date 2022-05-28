@@ -1,0 +1,2 @@
+id_point,building_id,last_updated,first_updated,device,objectId,name_point,description,units,tagged_units,raw_unit_id,value,type,point_type_id,measurement_id,datasource_hash,topic,equip_id,id_bdg,name_bdg,equip_type_abbr,equip_type_name,area_served_desc,tags
+230757,396,1543639500000.0,1541044800000.0,,,,VAL-2 BY Pass HHW_Present Value,%,,3,0,Speed,158,17,bf1f3c63a957f5c2d95c9ba6f40ca2aa,nyserda+0000091480+hotWaterPlant+VAL-2 BY Pass HHW_Present Value,22702,396,91480,HWS,Hot Water Plant,,"['hvac', 'hotWaterPlant']"
