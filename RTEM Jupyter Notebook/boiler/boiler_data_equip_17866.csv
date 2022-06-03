@@ -1,0 +1,2 @@
+id_point,building_id,last_updated,first_updated,device,objectId,name_point,description,units,tagged_units,raw_unit_id,value,type,point_type_id,measurement_id,datasource_hash,topic,equip_id,id_bdg,name_bdg,equip_type_abbr,equip_type_name,area_served_desc,tags
+197308,127,1546740000000.0,1530417600000.0,,,Boiler2 Temp,Boiler2 Temp,F,f,2,184.25,Hot Water Supply Temperature,88,1,0a726aa1c8c13e3130b2044a998d6e61,nyserda+0000089089+boiler2+Boiler2 Temp,17866,127,89089,BLR,Boiler,,"['boiler', 'hvac']"

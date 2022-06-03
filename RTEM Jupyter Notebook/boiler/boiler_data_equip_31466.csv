@@ -1,0 +1,2 @@
+id_point,building_id,last_updated,first_updated,device,objectId,name_point,description,units,tagged_units,raw_unit_id,value,type,point_type_id,measurement_id,datasource_hash,topic,equip_id,id_bdg,name_bdg,equip_type_abbr,equip_type_name,area_served_desc,tags
+357541,471,1622605500000.0,1594958400000.0,,,PXC 34 BIPLANE_BOILER STATUS_RGH.E.BIP.LIEBERT.STATUS,,,on/off,20,1.0,Status,121,11,99acb465d5fc2a55ef407a1aa48190a0,nyserda+0000136558+boiler-1+PXC 34 BIPLANE_BOILER STATUS_RGH.E.BIP.LIEBERT.STATUS,31466,471,136558,BLR,Boiler,,"['boiler', 'hvac']"

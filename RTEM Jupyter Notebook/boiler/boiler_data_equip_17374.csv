@@ -1,0 +1,2 @@
+id_point,building_id,last_updated,first_updated,device,objectId,name_point,description,units,tagged_units,raw_unit_id,value,type,point_type_id,measurement_id,datasource_hash,topic,equip_id,id_bdg,name_bdg,equip_type_abbr,equip_type_name,area_served_desc,tags
+194206,113,1591760700000.0,1575867600000.0,,,,PK Boiler 1 Active Power(kW),kW,,17,0.08,Real Power,221,13,37dbef46dc590a1ac6c3a88e1a295f88,nyserda+0000116888+boiler1+PK Boiler 1 Active Power(kW),17374,113,116888,BLR,Boiler,,"['boiler', 'hvac']"

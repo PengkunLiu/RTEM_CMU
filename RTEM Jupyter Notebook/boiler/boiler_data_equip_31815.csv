@@ -1,0 +1,2 @@
+id_point,building_id,last_updated,first_updated,device,objectId,name_point,description,units,tagged_units,raw_unit_id,value,type,point_type_id,measurement_id,datasource_hash,topic,equip_id,id_bdg,name_bdg,equip_type_abbr,equip_type_name,area_served_desc,tags
+358494,478,1625111100000.0,1594958400000.0,,,HS.BLR3_Boiler Status_HS.BLR3.STATUS,,,on/off,20,0.0,Status,121,11,6c1c5c703790003d770f48b4cc7bede3,nyserda+0000160783+boiler-3+HS.BLR3_Boiler Status_HS.BLR3.STATUS,31815,478,160783,BLR,Boiler,,"['boiler', 'hvac']"
